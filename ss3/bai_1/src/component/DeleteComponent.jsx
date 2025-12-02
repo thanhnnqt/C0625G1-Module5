@@ -24,7 +24,7 @@ class DeleteComponent extends Component {
                         <Modal.Title>Modal heading</Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
-                        Xóa khách hàng {this.props.deleteCustomer.id}
+                        Xóa khách hàng {this.props.deleteCustomer.name}
                     </Modal.Body>
                     <Modal.Footer>
                         <Button variant="secondary" onClick={this.handleClose}>
