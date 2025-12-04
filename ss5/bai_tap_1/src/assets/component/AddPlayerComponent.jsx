@@ -22,7 +22,6 @@ function AddPlayerComponent() {
         addNew(values);
         toast.success("Thêm mới thành công", {
             position: "top-right",
-            theme: "dark",
             autoClose: 2000
         });
         navigate("/");
