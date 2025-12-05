@@ -1,0 +1,102 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "pId": "PL-01",
+      "name": "Villa",
+      "dob": 1987,
+      "value": 100000000,
+      "location": "Tiền đạo",
+      "teams": {
+        "id": "1",
+        "teamName": "Barcelona"
+      }
+    },
+    {
+      "id": 2,
+      "pId": "PL-02",
+      "name": "Xavi",
+      "dob": 1988,
+      "value": 200000000,
+      "location": "Tiền vệ",
+      "teams": {
+        "id": "1",
+        "teamName": "Barcelona"
+      }
+    },
+    {
+      "id": 3,
+      "pId": "PL-03",
+      "name": "Iniesta",
+      "dob": 1989,
+      "value": 150000000,
+      "location": "Tiền vệ",
+      "teams": {
+        "id": "1",
+        "teamName": "Barcelona"
+      }
+    },
+    {
+      "id": 4,
+      "pId": "PL-04",
+      "name": "Busquest",
+      "dob": 1991,
+      "value": 120000000,
+      "location": "Tiền vệ",
+      "teams": {
+        "id": "1",
+        "teamName": "Barcelona"
+      }
+    },
+    {
+      "id": 5,
+      "pId": "PL-05",
+      "name": "Puyol",
+      "dob": 1984,
+      "value": 140000000,
+      "location": "Trung vệ",
+      "teams": {
+        "id": "1",
+        "teamName": "Barcelona"
+      }
+    },
+    {
+      "id": 6,
+      "pId": "PL-06",
+      "name": "Casillas",
+      "dob": 1992,
+      "value": 90000000,
+      "location": "Thủ môn",
+      "teams": {
+        "id": "1",
+        "teamName": "Barcelona"
+      }
+    },
+    {
+      "pId": "PL-24",
+      "name": "Pedro",
+      "dob": "1987",
+      "value": "2500000",
+      "location": "Tiền đạo",
+      "teams": {
+        "id": 2,
+        "teamName": "Valencia"
+      },
+      "id": 8
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Barcelona"
+    },
+    {
+      "id": 2,
+      "teamName": "Valencia"
+    },
+    {
+      "id": 3,
+      "teamName": "Atletico Madrid"
+    }
+  ]
+}
