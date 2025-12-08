@@ -1,0 +1,231 @@
+{
+  "facilities": [
+    {
+      "id": 1,
+      "type": "Villa",
+      "name": "Villa Beach Front",
+      "area": 250,
+      "cost": 500,
+      "maxPeople": 8,
+      "rentType": "Day",
+      "standard": "VIP",
+      "otherConvenience": "Jacuzzi, Bar",
+      "poolArea": 40,
+      "floors": 2
+    },
+    {
+      "id": 2,
+      "type": "House",
+      "name": "House Garden View",
+      "area": 150,
+      "cost": 300,
+      "maxPeople": 6,
+      "rentType": "Month",
+      "standard": "Deluxe",
+      "otherConvenience": "BBQ Grill",
+      "floors": 1
+    },
+    {
+      "id": 3,
+      "type": "Room",
+      "name": "Standard Room",
+      "area": 40,
+      "cost": 100,
+      "maxPeople": 2,
+      "rentType": "Day",
+      "freeService": "Nước uống miễn phí"
+    },
+    {
+      "name": "Villa vip",
+      "type": "Villa",
+      "area": "300",
+      "cost": "20000000",
+      "maxPeople": "10",
+      "rentType": "Day",
+      "standard": "vip",
+      "otherConvenience": "phòng vip",
+      "floors": "3",
+      "poolArea": "60",
+      "freeService": "",
+      "id": 4
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Văn A",
+      "birthDate": "1990-01-15",
+      "gender": "Male",
+      "cmnd": "012345678",
+      "phone": "0901234567",
+      "email": "vana@example.com",
+      "type": "Gold",
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "fullName": "Trần Thị B",
+      "birthDate": "1988-05-22",
+      "gender": "Female",
+      "cmnd": "023456789",
+      "phone": "0919876543",
+      "email": "thib@example.com",
+      "type": "Diamond",
+      "address": "Hội An"
+    },
+    {
+      "id": 3,
+      "fullName": "Lê Quốc C",
+      "birthDate": "1995-10-10",
+      "gender": "Male",
+      "cmnd": "034567891",
+      "phone": "(84)+901234567",
+      "email": "quocc@example.com",
+      "type": "Silver",
+      "address": "Huế"
+    },
+    {
+      "fullName": "Nguyễn Nhật Thành",
+      "birthDate": "1996-03-11T17:00:00.000Z",
+      "gender": "Male",
+      "cmnd": "012345678912",
+      "phone": "0354278740",
+      "email": "adhsiad@gmail.com",
+      "type": "Diamond",
+      "address": "Đà Nẵng",
+      "id": 4
+    },
+    {
+      "fullName": "Pham Van F",
+      "birthDate": "1999-11-10T17:00:00.000Z",
+      "gender": "Male",
+      "cmnd": "012345678912",
+      "phone": "0354278740",
+      "email": "adhsiad@gmail.com",
+      "type": "Platinium",
+      "address": "Đà Nẵng",
+      "id": 5
+    },
+    {
+      "fullName": "nguyen van a",
+      "birthDate": "1997-05-14T17:00:00.000Z",
+      "gender": "Male",
+      "cmnd": "012345678912",
+      "phone": "0354278740",
+      "email": "adhsiad@gmail.com",
+      "type": "Silver",
+      "address": "Đà Nẵng",
+      "id": 6
+    }
+  ],
+  "contracts": [
+    {
+      "id": 1,
+      "contractNumber": "HD001",
+      "startDate": "2025-01-10",
+      "endDate": "2025-01-15",
+      "deposit": 100,
+      "totalPayment": 800,
+      "customerId": 1,
+      "facilityId": 1
+    },
+    {
+      "id": 2,
+      "contractNumber": "HD002",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-05",
+      "deposit": 50,
+      "totalPayment": 300,
+      "customerId": 2,
+      "facilityId": 3
+    },
+    {
+      "contractNumber": "HD003",
+      "startDate": "2025-12-07T17:00:00.000Z",
+      "endDate": "2025-12-10T17:00:00.000Z",
+      "deposit": "500000",
+      "totalPayment": "3000000",
+      "customerId": "4",
+      "facilityId": "1",
+      "id": 3
+    }
+  ],
+  "attachedServices": [
+    {
+      "id": 1,
+      "name": "Massage",
+      "unit": "Lần",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "Karaoke",
+      "unit": "Giờ",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Đồ ăn",
+      "unit": "Suất",
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "Nước uống",
+      "unit": "Chai",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "name": "Thuê xe tham quan",
+      "unit": "Giờ",
+      "price": 150
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Phạm Văn Nam",
+      "birthDate": "1990-09-20",
+      "cmnd": "123456789",
+      "phone": "0904567890",
+      "email": "namph@example.com",
+      "level": "Đại học",
+      "position": "Lễ tân",
+      "salary": 800,
+      "department": "Hành Chính"
+    },
+    {
+      "id": 2,
+      "fullName": "Hoàng Thị Hà",
+      "birthDate": "1992-02-14",
+      "cmnd": "987654321",
+      "phone": "0912345678",
+      "email": "hahoang@example.com",
+      "level": "Cao đẳng",
+      "position": "Chuyên viên",
+      "salary": 1200,
+      "department": "Sale – Marketing"
+    }
+  ],
+  "positions": [
+    "Lễ tân",
+    "Phục vụ",
+    "Chuyên viên",
+    "Giám sát",
+    "Quản lý",
+    "Giám đốc"
+  ],
+  "levels": [
+    "Trung cấp",
+    "Cao đẳng",
+    "Đại học",
+    "Sau đại học"
+  ],
+  "departments": [
+    "Sale – Marketing",
+    "Hành Chính",
+    "Phục vụ",
+    "Quản lý"
+  ]
+}
