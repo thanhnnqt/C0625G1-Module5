@@ -9,7 +9,7 @@
       "location": "Tiền đạo",
       "teams": {
         "id": "1",
-        "teamName": "Barcelona"
+        "origin": "Barcelona"
       }
     },
     {
@@ -21,7 +21,7 @@
       "location": "Tiền vệ",
       "teams": {
         "id": "1",
-        "teamName": "Barcelona"
+        "origin": "Barcelona"
       }
     },
     {
@@ -33,7 +33,7 @@
       "location": "Tiền vệ",
       "teams": {
         "id": "1",
-        "teamName": "Barcelona"
+        "origin": "Barcelona"
       }
     },
     {
@@ -45,7 +45,7 @@
       "location": "Tiền vệ",
       "teams": {
         "id": "1",
-        "teamName": "Barcelona"
+        "origin": "Barcelona"
       }
     },
     {
@@ -57,7 +57,7 @@
       "location": "Trung vệ",
       "teams": {
         "id": "1",
-        "teamName": "Barcelona"
+        "origin": "Barcelona"
       }
     },
     {
@@ -69,7 +69,7 @@
       "location": "Thủ môn",
       "teams": {
         "id": "1",
-        "teamName": "Barcelona"
+        "origin": "Barcelona"
       }
     },
     {
@@ -80,7 +80,7 @@
       "location": "Tiền đạo",
       "teams": {
         "id": 2,
-        "teamName": "Valencia"
+        "origin": "Valencia"
       },
       "id": 8
     }
@@ -88,15 +88,15 @@
   "teams": [
     {
       "id": 1,
-      "teamName": "Barcelona"
+      "origin": "Barcelona"
     },
     {
       "id": 2,
-      "teamName": "Valencia"
+      "origin": "Valencia"
     },
     {
       "id": 3,
-      "teamName": "Atletico Madrid"
+      "origin": "Atletico Madrid"
     }
   ]
 }

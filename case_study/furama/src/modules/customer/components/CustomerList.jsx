@@ -74,8 +74,7 @@ export default function CustomerList() {
                 <select
                     ref={customerTypeRef}
                     className="form-select"
-                    defaultValue=""
-                >
+                    defaultValue="">
                     <option value="">-- Loại khách --</option>
                     <option value="Diamond">Diamond</option>
                     <option value="Platinium">Platinium</option>

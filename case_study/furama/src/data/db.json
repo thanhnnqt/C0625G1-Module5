@@ -5,7 +5,7 @@
       "type": "Villa",
       "name": "Villa Beach Front",
       "area": 250,
-      "cost": 500,
+      "cost": 500000,
       "maxPeople": 8,
       "rentType": "Day",
       "standard": "VIP",
@@ -18,7 +18,7 @@
       "type": "House",
       "name": "House Garden View",
       "area": 150,
-      "cost": 300,
+      "cost": 300000,
       "maxPeople": 6,
       "rentType": "Month",
       "standard": "Deluxe",
@@ -30,7 +30,7 @@
       "type": "Room",
       "name": "Standard Room",
       "area": 40,
-      "cost": 100,
+      "cost": 100000,
       "maxPeople": 2,
       "rentType": "Day",
       "freeService": "Nước uống miễn phí"
@@ -125,7 +125,7 @@
       "startDate": "2025-01-10",
       "endDate": "2025-01-15",
       "deposit": 100,
-      "totalPayment": 800,
+      "totalPayment": 800000,
       "customerId": 1,
       "facilityId": 1
     },
@@ -135,7 +135,7 @@
       "startDate": "2025-02-01",
       "endDate": "2025-02-05",
       "deposit": 50,
-      "totalPayment": 300,
+      "totalPayment": 300000,
       "customerId": 2,
       "facilityId": 3
     },
@@ -155,31 +155,31 @@
       "id": 1,
       "name": "Massage",
       "unit": "Lần",
-      "price": 200
+      "price": 200000
     },
     {
       "id": 2,
       "name": "Karaoke",
       "unit": "Giờ",
-      "price": 100
+      "price": 100000
     },
     {
       "id": 3,
       "name": "Đồ ăn",
       "unit": "Suất",
-      "price": 50
+      "price": 50000
     },
     {
       "id": 4,
       "name": "Nước uống",
       "unit": "Chai",
-      "price": 20
+      "price": 20000
     },
     {
       "id": 5,
       "name": "Thuê xe tham quan",
       "unit": "Giờ",
-      "price": 150
+      "price": 150000
     }
   ],
   "employees": [
@@ -192,7 +192,7 @@
       "email": "namph@example.com",
       "level": "Đại học",
       "position": "Lễ tân",
-      "salary": 800,
+      "salary": 800000,
       "department": "Hành Chính"
     },
     {
@@ -204,7 +204,7 @@
       "email": "hahoang@example.com",
       "level": "Cao đẳng",
       "position": "Chuyên viên",
-      "salary": 1200,
+      "salary": 1200000,
       "department": "Sale – Marketing"
     }
   ],

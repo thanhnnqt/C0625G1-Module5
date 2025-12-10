@@ -71,8 +71,7 @@ function LoginComponent() {
                     <button
                         type="button"
                         onClick={handleLogin}
-                        className="btn btn-success w-50"
-                    >
+                        className="btn btn-success w-50">
                         Login
                     </button>
                 </div>

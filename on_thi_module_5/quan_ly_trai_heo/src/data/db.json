@@ -1,0 +1,54 @@
+{
+  "players": [
+    {
+      "pId": "MH-005",
+      "startDay": "22/09/2025",
+      "endDay": "23/11/2025",
+      "startWeight": "15",
+      "endWeight": "120",
+      "country": {
+        "id": 1,
+        "origin": "Việt Nam"
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "pId": "MH-002",
+      "startDay": "15/10/2025",
+      "endDay": "15/12/2025",
+      "startWeight": 10,
+      "endWeight": 100,
+      "country": {
+        "id": "2",
+        "origin": "Nhật Bản"
+      }
+    },
+    {
+      "pId": "MH-004",
+      "startDay": "11/08/2025",
+      "endDay": "11/11/2025",
+      "startWeight": "20",
+      "endWeight": "115",
+      "country": {
+        "id": 3,
+        "origin": "Mỹ"
+      },
+      "id": 4
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "origin": "Việt Nam"
+    },
+    {
+      "id": 2,
+      "origin": "Nhật Bản"
+    },
+    {
+      "id": 3,
+      "origin": "Mỹ"
+    }
+  ]
+}
